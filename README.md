@@ -4,6 +4,7 @@ AI City Challenge: Week-1(Research)
  
 # Name of the Product/Team:
 "TraffiLytic" - Would need people's agreement on going ahead with this as official team and domain name(for email ID Creation)
+### Update: Decided name for the Team participating in the #AICityChallenge
  
 # Tracks:
 1. Detection and Classification (left-moving, right-moving etc)
